@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+:root {
+  --main-color: #22577A;
+  --tosca-color: #38A3A5;
+  --dark-green: #57CC99;
+  --light-green: #80ED99;
+  --light-blue: #D0FFF4;
+}
+
+*,*::before,*::after {
+  font-family: 'Poppins',sans-serif;
+  box-sizing: border-box;
+}
+
+li {
+  list-style: none;
+}
